@@ -6,10 +6,13 @@
 
 A lightweight Flask + CNN app that watches your webcam and reads back **Danger**, **Help**, or **Peace** hand signs live — no install, no cloud upload, no accounts.
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Flask](https://img.shields.io/badge/Flask-3.x-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.16-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+<img width="1435" height="662" alt="image" src="https://github.com/user-attachments/assets/2c9c4e46-c7e3-4117-b6d3-0c07ea1a2051" />
+<img width="1620" height="455" alt="image" src="https://github.com/user-attachments/assets/07665ac7-5a1c-47c3-add9-a77b4c02c0c1" />
+
+##Prototype
+<img width="1600" height="747" alt="image" src="https://github.com/user-attachments/assets/f16cb562-7ca5-4526-bcfc-9c1ef4acf68a" />
+<img width="1600" height="745" alt="image" src="https://github.com/user-attachments/assets/c4752c1d-5d44-46e3-8d36-bd0a38b5624f" />
+<img width="1600" height="743" alt="image" src="https://github.com/user-attachments/assets/df784bb1-333a-4845-9021-71c49b5cca52" />
 
 </div>
 
